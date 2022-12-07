@@ -33,7 +33,7 @@
   "dependencies": {
     "body-parser": "1.18.2",
     "cheerio": "1.0.0-rc.2",
-    "express": "4.16.2",
+    "express": "4.17.3",
     "knex": "0.14.2",
     "objection": "0.9.4",
     "pg": "7.4.0",
